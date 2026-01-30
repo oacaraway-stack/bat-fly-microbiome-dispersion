@@ -4,8 +4,11 @@
 This repository contains code and data used to analyze and answer if habitat fragmentation destabilizes parasite-associated microbiomes, measured as beta-diversity dispersion in bat fly bacterial communities.
 
 ## Repository Contents
-- `microbiome_dispersion_analysis.ipynb`  
+- `microbiome_dispersion_analysis.html`  
   Jupyter notebook containing all preprocessing, beta-diversity calculations, dispersion analyses, statistical tests, and visualizations.
+
+microbiome_d… (auto-V) - JupyterLab.pdf
+Visual representation of analysis notebook with all preprocessing, beta-diversity calculations, dispersion analyses, statistical tests, and visualizations.
 
 - `Metadata.tsv`  
   Sample metadata including host bat species, parasite identity, and habitat fragment assignment.
