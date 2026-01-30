@@ -7,7 +7,7 @@ This repository contains code and data used to analyze and answer if habitat fra
 - `microbiome_dispersion_analysis.html`  
   Jupyter notebook containing all preprocessing, beta-diversity calculations, dispersion analyses, statistical tests, and visualizations.
 
-microbiome_d… (auto-V) - JupyterLab.pdf
+-`microbiome_d… (auto-V) - JupyterLab.pdf`
 Visual representation of analysis notebook with all preprocessing, beta-diversity calculations, dispersion analyses, statistical tests, and visualizations.
 
 - `Metadata.tsv`  
