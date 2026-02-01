@@ -12,9 +12,6 @@ All AI-generated code was reviewed, edited, and executed by Olivia Caraway. Outp
 
 No AI-generated results were accepted without manual review.
 
-## Scope of AI Use
-AI tools were used only to assist with coding and technical explanation. All data interpretation, decisions, and conclusions were made by Olivia Caraway
-
 ## Ethical and Data Privacy 
 - All data used in this project was derived from previously published, de-identified datasets. No sensitive, personal, or private information was processed using AI tools. AI usage complied with institutional academic integrity guidelines.
 - All data was not utilized, analyses was differentiated from original study to ensure independent observation and avoid copy right. 
